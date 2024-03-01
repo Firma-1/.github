@@ -42,6 +42,6 @@ Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](LICE
 
 ---
 
-**Faculdade Federal de Jataí - Curso de Ciências da Computação**  
+**Universidade Federal de Jataí - Curso de Ciências da Computação**  
 **Disciplina: Projeto de Software**  
 **Professor: José Euripedes**
