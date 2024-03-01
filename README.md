@@ -26,22 +26,6 @@ O desenvolvimento do projeto segue a metodologia SCRUM, com sprints planejados p
 3. **Sprint 3 (Semana 8-12)**: Enriquecimento do conteúdo com materiais interativos e implementação da certificação automatizada.
 4. **Sprint 4 (Semana 12-16)**: Aperfeiçoamento da usabilidade e segurança, com implementação de recomendações personalizadas.
 
-## Como Contribuir
-
-Para contribuir com o Projeto EducaTech, por favor, siga as orientações:
-
-1. Faça um fork do repositório.
-2. Crie uma branch para sua feature (`git checkout -b feature/NovaFeature`).
-3. Faça commit das suas alterações (`git commit -am 'Adiciona nova feature'`).
-4. Faça push para a branch (`git push origin feature/NovaFeature`).
-5. Abra um Pull Request.
-
-## Licença
-
-Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para detalhes.
-
----
-
 **Universidade Federal de Jataí - Curso de Ciências da Computação**  
 **Disciplina: Projeto de Software**  
 **Professor: José Euripedes**
